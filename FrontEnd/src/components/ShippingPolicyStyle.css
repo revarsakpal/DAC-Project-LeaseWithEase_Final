@@ -1,0 +1,61 @@
+.upper1 {
+    background-color: rgb(187, 139, 149);
+    height: 150px;
+    width: 1205px;
+    border-radius: 20px;
+   
+}
+
+.upperc h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-weight:1000;
+    font-size: 5rem;
+}
+
+.ShippingPolicy {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 90px;
+    
+
+}
+
+.ShippingPolicy li {
+    text-align: start;
+    font-style: normal;
+    font-size: 2rem;
+
+}
+
+.ShippingPolicy ol {
+
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+
+
+
+
+.ShippingPolicy {
+    text-align: center;
+
+}
+
+.ShippingPolicy li {
+    text-align: start;
+    font-style: normal;
+
+}
+
+.ShippingPolicy ol {
+
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
